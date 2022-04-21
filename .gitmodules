@@ -1,0 +1,13 @@
+[submodule "VR_Sample_App/glew"]
+	path = VR_Sample_App/glew
+	url = https://github.com/Perlmint/glew-cmake
+[submodule "VR_Sample_App/glfw"]
+	path = VR_Sample_App/glfw
+	url = https://github.com/glfw/glfw
+[submodule "VR_Sample_App/glm"]
+	path = VR_Sample_App/glm
+	url = https://github.com/g-truc/glm
+
+[submodule "VR_Sample_App/vr_library"]
+	path = VR_Sample_App/vr_library
+	url = https://github.com/StevenSchuerstedt/vr_library
